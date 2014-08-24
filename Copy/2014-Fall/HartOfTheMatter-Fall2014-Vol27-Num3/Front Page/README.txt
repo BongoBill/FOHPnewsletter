@@ -1,0 +1,1 @@
+Please include as many of the photos in the subdirectory as you can.  If there's actually room for more (probably not I realize), there's a subdirectory within the subdirectory with more, optional photos.
