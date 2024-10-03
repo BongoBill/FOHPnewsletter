@@ -1,1 +1,3 @@
 ...and while you're at it, put this on your calendar too!
+:q
+:q!
